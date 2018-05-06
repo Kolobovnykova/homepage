@@ -1,3 +1,2 @@
 # Welcome to the Homepage!
-## I would like to introduce my first personal website - _Hillary's Clinton résumé_:
-https://kolobovnykova.github.io/homepage/
+**Hello, my name is Anastasiia and I would like to introduce my first personal website - (https://kolobovnykova.github.io/homepage/ "Hillary's Clinton résumé")**
