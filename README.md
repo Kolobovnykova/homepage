@@ -1,2 +1,6 @@
 # Homepage
-My very own personal website. Basically this is just a résumé.
+----
+## Hello,
+I would like to introduce my very first personal website - Hillary's Clinton résumé.
+
+======
