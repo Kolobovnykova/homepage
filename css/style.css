@@ -61,6 +61,14 @@ blockquote {
     margin:  10px;
 }
 
+.contact {
+    text-align: center;
+}
+
+a {
+    margin-left: 20px;
+}
+
 .picture {
     position: relative;
     background: url(../pictures/hillary-clinton.jpg) no-repeat center center;
