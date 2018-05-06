@@ -1,2 +1,2 @@
-# Homepage
-My very own personal website. Basically this is just a résumé.
+# Welcome to the Homepage!
+**Hello, my name is Anastasiia and I would like to introduce my first personal website - ["Hillary's Clinton résumé"](https://kolobovnykova.github.io/homepage/)**
