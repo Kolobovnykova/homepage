@@ -1,14 +1,16 @@
 #main {
     border: 3pt solid black;
-    margin-top: 10px;
+    margin-top: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     padding: 20px;
     border-radius: 22px;
     background-color:white;
-    padding: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-bottom: 20px;
 }
 
-.header-right {
+.header-center {
     text-align: center;
 }
 
@@ -21,7 +23,8 @@ h3 {
 }
 
 h4 {
-    color: rgb(36, 21, 21);
+    color: rgb(163, 14, 14);
+    margin-bottom: 3px;
 }
 
 blockquote {
@@ -30,6 +33,11 @@ blockquote {
 
 hr {
     border-bottom: 3px solid black;
+}
+
+small {
+    margin-top:  3px;
+    color: rgb(119, 111, 111);
 }
 
 .dates {
